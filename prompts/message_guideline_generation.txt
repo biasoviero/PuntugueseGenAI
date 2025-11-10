@@ -1,0 +1,1 @@
+Dados os exemplos de trocadilhos e não trocadilhos no formato (frase, classificação), crie um guia que explique como classificar frases como "Trocadilho" e "Não trocadilho" baseado na relação entre a frase e seu rótulo. Descreva características de cada rótulo.

@@ -1,0 +1,28 @@
+**Guia para Classificar Trocadilhos**
+
+O objetivo deste guia é fornecer diretrizes para classificar frases como "Trocadilho" ou "Não trocadilho" com base na relação entre a frase e seu rótulo.
+
+**Características de um Trocadilho:**
+
+1. **Palavra-jogo**: Um trocadilho é uma frase que utiliza palavras com duplo sentido, jogo de palavras ou similaridade fonética para criar um efeito cômico.
+2. **Relação entre as palavras**: As palavras em um trocadilho devem ter uma relação lógica ou semântica entre si, embora possam não ser aparente à primeira vista.
+3. **Efeito cômico**: O objetivo de um trocadilho é criar um efeito cômico ou surpreendente ao revelar a relação entre as palavras.
+
+**Características de um Não Trocadilho:**
+
+1. **Frase literal**: Uma frase não-trocadilho é uma frase que tem um sentido literal e não utiliza jogo de palavras ou duplo sentido.
+2. **Sentido claro**: As palavras em uma frase não-trocadilho devem ter um sentido claro e fácil de entender.
+3. **Nenhuma relação especial**: Não há nenhuma relação especial entre as palavras em uma frase não-trocadilho.
+
+**Regras para Classificar:**
+
+1. Leia a frase cuidadosamente e identifique se há uma relação lógica ou semântica entre as palavras.
+2. Verifique se a frase utiliza jogo de palavras, duplo sentido ou similaridade fonética.
+3. Se a frase atender às características de um trocadilho (palavra-jogo, relação entre as palavras e efeito cômico), classifique como "Trocadilho".
+4. Se a frase não atender às características de um trocadilho, mas sim às características de uma frase literal e clara, classifique como "Não Trocadilho".
+
+
+**Conclusão:**
+
+A classificação de frases como "Trocadilho" ou "Não Trocadilho" requer atenção à relação entre as palavras e ao efeito cômico que elas criam. Ao seguir as regras apresentadas, você estará melhor preparado para identificar e classificar corretamente essas frases.
+Você receberá frases julgadas por humanos como "Trocadilho" e "Não trocadilho". Sua tarefa é classificar a frase a seguir, considerando o guia acima. Responda apenas a sua classificação no formato da tupla (frase original, rótulo classificado)

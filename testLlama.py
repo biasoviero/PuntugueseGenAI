@@ -30,6 +30,7 @@ response = ollama.generate(
     model="llama3",
     system="Você é um classificador de frases em português",
     prompt=f"{prompt} {phrase}",
-    options=options
+    options=options,
+    stream=False
 )
 print(response["response"])

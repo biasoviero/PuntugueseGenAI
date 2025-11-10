@@ -1,0 +1,1 @@
+Você receberá frases julgadas por humanos como "Trocadilho" e "Não trocadilho". Sua tarefa é classificar a frase a seguir, considerando o guia acima. Responda apenas a sua classificação no formato da tupla (frase original, rótulo classificado)
