@@ -21,6 +21,18 @@ O objetivo deste guia é fornecer diretrizes para classificar frases como "Troca
 3. Se a frase atender às características de um trocadilho (palavra-jogo, relação entre as palavras e efeito cômico), classifique como "Trocadilho".
 4. Se a frase não atender às características de um trocadilho, mas sim às características de uma frase literal e clara, classifique como "Não Trocadilho".
 
+Exemplos:
+
+('O que come um canibal vegetariano? A planta dos pés.', 'Trocadilho')
+('O que come um animal vegetariano? A planta.', 'Não trocadilho')
+('Qual a música preferida dos cachorros? Samba Cãosão.', 'Trocadilho')
+('Qual a música preferida dos cachorros? Cão amigo.', 'Não trocadilho')
+('Qual é o doce usado em baterias de celular? O pirulithium.', 'Trocadilho')
+('Qual é o doce usado em baterias de celular? O pudim.', 'Não trocadilho')
+('Por que o peixe não tem sorte? Porque pegou uma maré de azar.', 'Trocadilho')
+('Por que o peixe não tem sorte? Porque pegou uma maré decrescente.', 'Não trocadilho')
+('Qual é a cobra que desperta o tigre em você? A sucurilhos.', 'Trocadilho')
+('Qual é a cobra que desperta o tigre em você? A naja.', 'Não trocadilho')
 
 **Conclusão:**
 
