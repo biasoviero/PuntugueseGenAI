@@ -1,0 +1,13 @@
+Metric,Value
+F1 Score (Trocadilho),0.7090511348099535
+F1 Score (Não Trocadilho),0.4137741046831956
+Accuracy,0.6111111111111112
+Precision (Trocadilho),0.5664045434687637
+Recall (Trocadilho),0.9477339181286549
+Precision (Não Trocadilho),0.8400447427293065
+Recall (Não Trocadilho),0.2744883040935672
+True Positives (Trocadilho),2593.0
+True Negatives (Não Trocadilho),751.0
+False Positives,1985.0
+False Negatives,143.0
+Total Samples,5472.0
