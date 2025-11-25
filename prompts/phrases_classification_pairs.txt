@@ -1,0 +1,32 @@
+**Guia para Classificar Trocadilhos**
+
+O objetivo deste guia é fornecer diretrizes para classificar frases como "Trocadilho" ou "Não trocadilho" com base na relação entre a frase e seu rótulo.
+
+**Características de um Trocadilho:**
+1. Palavra-jogo: Utiliza duplo sentido, jogo de palavras ou similaridade fonética para criar efeito cômico.
+2. Relação entre as palavras: Relação lógica ou semântica, mesmo que não aparente à primeira vista.
+3. Efeito cômico: Cria surpresa ou humor ao revelar a relação.
+
+**Características de um Não Trocadilho:**
+1. Frase literal: Sentido literal, sem jogo de palavras ou duplo sentido.
+2. Sentido claro: Fácil de entender.
+3. Nenhuma relação especial entre as palavras.
+
+**Regras para Classificar:**
+1. Leia cada frase e identifique se há relação lógica ou semântica entre as palavras.
+2. Verifique se há jogo de palavras, duplo sentido ou similaridade fonética.
+3. Se atender às características de trocadilho, classifique como "Trocadilho".
+4. Se atender às características de frase literal, classifique como "Não trocadilho".
+
+**Importante - Estrutura do Par:**
+
+Você sempre receberá um PAR de frases. A estrutura é garantida:
+- **Exatamente uma** das frases é um trocadilho
+- **Exatamente uma** das frases é um não-trocadilho
+
+As frases podem aparecer em qualquer ordem no par. Sua tarefa é identificar qual é qual.
+
+**Conclusão:**
+
+Classifique cada frase do par como "Trocadilho" ou "Não trocadilho", seguindo o guia acima. Responda apenas com uma tupla para cada frase, no formato (frase original, rótulo classificado).
+Lembre-se: um será "Trocadilho" e o outro será "Não trocadilho". 
