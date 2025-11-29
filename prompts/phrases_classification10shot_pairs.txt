@@ -40,6 +40,8 @@ As frases podem aparecer em qualquer ordem no par. Sua tarefa é identificar qua
 
 **Conclusão:**
 
-Classifique cada frase do par como "Trocadilho" ou "Não trocadilho", seguindo o guia acima. Responda apenas com uma tupla para cada frase, no formato (frase original, rótulo classificado).
-Para cada par de frases a resposta deve obrigatoriamente conter duas tuplas.
+Classifique cada frase do par como "Trocadilho" ou "Não trocadilho", seguindo o guia acima.
+Siga estritamente este formato de resposta, sem adicionar texto extra:
+(Texto da frase, Classificação)
+(Texto da frase, Classificação)
 Lembre-se: um será "Trocadilho" e o outro será "Não trocadilho". 

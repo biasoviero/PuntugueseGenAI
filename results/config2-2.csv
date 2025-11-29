@@ -1,0 +1,14 @@
+Metric,Value
+F1 Score (Classe 1: Trocadilho),0.7258771929824561
+F1 Score (Classe 0: Não Trocadilho),0.7258771929824561
+Accuracy (Global),0.7258771929824561
+Precision (Trocadilho),0.7258771929824561
+Recall (Trocadilho),0.7258771929824561
+Precision (Não Trocadilho),0.7258771929824561
+Recall (Não Trocadilho),0.7258771929824561
+True Positives (TP),1986.0
+True Negatives (TN),1986.0
+False Positives (FP),750.0
+False Negatives (FN),750.0
+Total Instances (Frases),5472.0
+Total Pairs (Pares),2736.0
